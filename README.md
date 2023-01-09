@@ -1,21 +1,15 @@
-# DIO-GFT-QA-DESAFIO-PROJETO-API-REST-ASSURED
+# DESAFIO-PROJETO-API-REST-ASSURED-DIO-GFT-QA
 
-## Projeto final explorando o Rest Assured para automação de testes de API
+## Projeto final "Bootcamp Quality Assurance - DIO": Automação de testes de API com Rest Assured
 
-### Neste projeto explorei o framework RestAssured + JUnit e a geração de reports com o Allure Framework, além disso também usei JsonServer para simular uma API.
 ### Os testes foram criados utilizando a linguagem Java.
 ### A API utilizada como base foi a Restful-booker.
 ### Frameworks/tools utilizados:
 ### * RestAssured;
-### * Json Servere(Javascript);
-### * Eclipse;
-### * Allure Framework
-### * Postman.
-### Foi criado uma colection no Postman usando a API Restful-booker como base.
-### Utilizando o Eclipse foi criado uma suíte de testes cobrindo todos os endpoints da documentação.
-### Gerado o report usando o Allure Framework.
-### Foi criado um mock de uma API usando o Json Server, incrementando a API com outros endpoints.
-### Foi adicionado o Json Server neste repositório do projeto.
+### * Json Server(Javascript): criação de um mock de uma API, incrementando com outros endpoints;
+### * Eclipse: criação de suíte de testes cobrindo todos os endpoints da documentação;
+### * Allure Framework: geração do report;
+### * Postman: criação de Collection usando a API Restful-booker como base.
 
 
 
